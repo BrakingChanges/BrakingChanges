@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm currently working on [GEFS-Radial-Bearing](https://github.com/Tech-Helper503/GEFS-Radial-Bearing), an application that simply acts more generally as an EFB  
+
+[!Vatsim Indicator](https://my.vatsim.net/indicators/1746386)
+
+Fun fact: Cicadas have the strongest pee in the animal kingdom, with speeds of up to 3 m/s
 
 <!--
 **Tech-Helper503/Tech-Helper503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
