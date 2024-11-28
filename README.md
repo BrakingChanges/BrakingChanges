@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm currently working on [GEFS-Radial-Bearing](https://github.com/Tech-Helper503/GEFS-Radial-Bearing), an application that simply acts more generally as an EFB  
+A developer who is slightly addicted to aviation
+
+### Github Stats
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=BrakingChanges)
 
 ![Vatsim Indicator](https://my.vatsim.net/indicators/1746386)
 
