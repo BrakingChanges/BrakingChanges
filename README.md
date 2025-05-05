@@ -2,7 +2,9 @@
 A developer who is slightly addicted to aviation
 
 ### Github Stats
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=BrakingChanges)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrakingChnges&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrakingChanges&size_weight=0.5&count_weight=0.5)
+
 
 ![Vatsim Indicator](https://my.vatsim.net/indicators/1746386)
 
