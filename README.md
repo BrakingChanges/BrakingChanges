@@ -2,7 +2,7 @@
 A developer who is slightly addicted to aviation
 
 ### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrakingChnges&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrakingChanges&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrakingChanges&size_weight=0.5&count_weight=0.5)
 
 
